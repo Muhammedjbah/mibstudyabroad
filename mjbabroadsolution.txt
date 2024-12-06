@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="MJB Abroad Solutions - Study Abroad, Visa Application, and Scholarship Services">
+    <meta name="keywords" content="Study Abroad, Visa Applications, Scholarships, Personal Statements">
+    <meta name="author" content="MJB Abroad Solutions">
+    <title>MJB Abroad Solutions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #0056b3;
+            color: white;
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+        }
+        .hero {
+            background: url('https://via.placeholder.com/1500x500') no-repeat center center/cover;
+            color: white;
+            height: 300px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        .hero h2 {
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 10px;
+        }
+        .services, .success-stories, .contact {
+            margin: 20px 0;
+        }
+        footer {
+            background-color: #f8f9fa;
+            color: #333;
+            text-align: center;
+            padding: 10px 0;
+            border-top: 1px solid #ccc;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>MJB Abroad Solutions</h1>
+    <p>Your Trusted Partner for Study Abroad Success</p>
+</header>
+
+<nav>
+    <a href="#about">About Us</a>
+    <a href="#services">Services</a>
+    <a href="#success-stories">Success Stories</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+    <h2>Make Your Study Abroad Dreams Come True!</h2>
+</section>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>Welcome to MJB Abroad Solutions! We provide expert guidance for study abroad, visa applications, and scholarships. Let us simplify your journey to success.</p>
+</section>
+
+<section id="services" class="services">
+    <h2>Our Services</h2>
+    <ul>
+        <li><strong>Study Abroad Guidance:</strong> Choose the right university and program for your future.</li>
+        <li><strong>Visa Application Services:</strong> Comprehensive support for a stress-free process.</li>
+        <li><strong>Motivation Letters & Personal Statements:</strong> Stand out with expertly written content.</li>
+        <li><strong>Appointment Booking:</strong> Easy consultations tailored to your needs.</li>
+    </ul>
+    <a href="#contact" class="button">Get Started</a>
+</section>
+
+<section id="success-stories" class="success-stories">
+    <h2>Success Stories</h2>
+    <p>We have helped students from all over the world achieve their dreams:</p>
+    <ul>
+        <li>John: Secured a full scholarship to study in the USA!</li>
+        <li>Ayesha: Successfully obtained a visa with our guidance.</li>
+        <li>Carlos: Gained admission to a top university in Canada.</li>
+    </ul>
+</section>
+
+<section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:yourname@mjbabroadsolutions.com">yourname@mjbabroadsolutions.com</a></p>
+    <p>Phone: +[Your Phone Number]</p>
+    <p>WhatsApp: +[Your WhatsApp Number]</p>
+    <p>Office Hours: Monday–Friday, 9:00 AM–6:00 PM</p>
+    <a href="#contact" class="button">Book an Appointment</a>
+</section>
+
+<footer>
+    <p>© 2024 MJB Abroad Solutions. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
